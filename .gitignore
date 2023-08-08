@@ -1,5 +1,5 @@
 node_modules
 dist
 .DS_Store
-scss/**/*.css
-scss/**/*.map
+index.css
+index.css.map
