@@ -18,7 +18,7 @@ import nodeJs from "../assets/node-js.svg";
 import adobe from "../assets/adobe.svg";
 import bolt from "../assets/bolt-cep.svg";
 
-import "./scss/main.scss";
+import "../main/scss/_main.scss";
 
 const Main = () => {
   const [bgColor, setBgColor] = useState("#282c34");
