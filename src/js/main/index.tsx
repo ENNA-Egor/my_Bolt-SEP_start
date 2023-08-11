@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { initBolt } from "../lib/utils/bolt";
-import "../main/scss/_main.scss";
-// import "../../../css/index.css";
+// import "../main/scss/index.scss";
+import "../main/scss/index.css";
 import Main from "./main";
 
 initBolt();
