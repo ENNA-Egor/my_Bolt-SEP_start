@@ -78,6 +78,8 @@ button:active {
 .icon {
   width: 350px;
   height: 150px;
+  border: 2px solid olivedrab;
+  border-radius: 10px;
 }
 
 .icon-button {
@@ -102,4 +104,8 @@ button:active {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #444444;
+}
+
+.btn {
+  border: 1px solid olivedrab;
 }/*# sourceMappingURL=index.css.map */

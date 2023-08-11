@@ -91,6 +91,8 @@ button {
 .icon {
   width: 350px;
   height: 150px;
+  border: 2px solid olivedrab;
+  border-radius: 10px;
 }
 .icon-button {
   width: 20px;
@@ -111,4 +113,8 @@ button {
 }
 ::-webkit-scrollbar-thumb:hover {
   background: $dark;
+}
+
+.btn{
+  border: 1px solid olivedrab;
 }

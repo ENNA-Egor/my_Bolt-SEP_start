@@ -93,23 +93,23 @@ const Main = () => {
           </div>
         </div>
         <div className="button-group">
-          <button onClick={() => setCount((count) => count + 1)}>
+          <button className="btn" onClick={() => setCount((count) => count + 1)}>
             Count is: {count}
           </button>
-          <button onClick={nodeTest}>
+          <button className="btn" onClick={nodeTest}>
             <img className="icon-button" src={nodeJs} />
           </button>
-          <button onClick={jsxTest}>
+          <button className="btn" onClick={jsxTest}>
             <img className="icon-button" src={adobe} />
           </button>
-          <button onClick={jsxTestTS}>Ts</button>
+          <button className="btn" onClick={jsxTestTS}>Ts</button>
         </div>
         <p>
           Edit <code>main.tsx</code> and save to test HMR updates.
         </p>
         <p>
           <button
-            className="app-link"
+            className="app-link btn"
             onClick={() =>
               openLinkInBrowser("https://github.com/hyperbrew/bolt-cep")
             }
@@ -118,14 +118,14 @@ const Main = () => {
           </button>
           {" | "}
           <button
-            className="app-link"
+            className="app-link btn"
             onClick={() => openLinkInBrowser("https://reactjs.org")}
           >
             React Docs
           </button>
           {" | "}
           <button
-            className="app-link"
+            className="app-link btn"
             onClick={() =>
               openLinkInBrowser("https://vitejs.dev/guide/features.html")
             }
