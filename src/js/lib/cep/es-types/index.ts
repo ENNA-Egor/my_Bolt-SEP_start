@@ -1,3 +1,3 @@
 export type Scripts = {
-  [key: string]: (...ags: any) => any;
+  [key: string]: (a: any, ...ags: any) => any;
 };

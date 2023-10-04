@@ -29,25 +29,9 @@ _Full Blog Post:_ https://hyperbrew.co/blog/bolt-cep-build-extensions-faster/
 
 ### Compatibility
 
-- [Adobe CC Apps](https://www.adobe.com/creativecloud/desktop-app.html) version 2022 or later
+- [Adobe CC Apps](https://www.adobe.com/creativecloud/desktop-app.html) version 2020 or later
 - Windows & Mac Intel
 - Mac Arm64 (M1 / M2) require special setup ([more details](#misc-troubleshooting))
-
----
-
-## Tools Built with Bolt CEP
-
-[Klutz GPT](https://hyperbrew.co/tools/klutz-gpt/) ( by Hyper Brew ) | ChatGPT for After Effects
-
-[Rubberhose 3](https://www.battleaxe.co/rubberhose) ( by Battle Axe ) | The fastest and simplest way to rig and animate characters in After Effects
-
-[Version Raptor](https://hyperbrew.co/tools/version-raptor/) ( by Hyper Brew ) | Next Level Versioning for Premiere Pro and After Effects
-
-[Note Clips](https://jiggypuff.gumroad.com/l/ClipNotes) ( by Jiggy ) | A Notes App for Premiere Pro and After Effects
-
-[TikTokText](https://aescripts.com/tiktoktext/) ( by Allan Raffel ) | Quick and easy TikTok style text for After Effects
-
-[After Diffusion](https://github.com/Trentonom0r3/After-Diffusion) ( by Trenton ) | Stable Diffusion in After Effects
 
 ---
 
